@@ -19,10 +19,10 @@ This is a simple e-commerce store built with React. The store allows users to br
 ## Installation
 ```bash
 # Clone the project:
-git clone https://github.com/your-username/your-repo.git
+git clone https://github.com/EskanderAmadov/ecommerce-store
 
 # Navigate to the folder:
-cd your-repo
+cd ecommerce-store
 
 # Install dependencies:
 npm install
