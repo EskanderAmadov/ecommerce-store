@@ -36,7 +36,7 @@ The goal of this project was to apply knowledge from the JavaScript Frameworks m
 
 ## Preview
 
-![E-Commerce React Store Preview](./amadovshop.png)  
+![E-Commerce React Store Preview](./public/assets/amadovshop.png)  
 
 
 ---
